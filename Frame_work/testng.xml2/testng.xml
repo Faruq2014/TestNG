@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngExplanation.InvocationTimeOut"/>
+      <class name="testngExplanation.Description"/>
+      <class name="testngExplanation.priority"/>
+      <class name="testngExplanation.EnableTrueFalse"/>
+      <class name="testngExplanation.TimeOut"/>
+      <class name="testngExplanation.BandA"/>
+      <class name="testngExplanation.DependsOnMethods"/>
+      <class name="testngExplanation.Groups"/>
+      <class name="testngExplanation.InvocationCount"/>
+      <class name="testngExplanation.AlwaysRun"/>
+      <class name="testngExplanation.TestNG_in_order"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

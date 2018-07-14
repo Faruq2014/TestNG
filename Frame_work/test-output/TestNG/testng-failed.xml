@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG]">
+  <test thread-count="5" name="batch1(failed)">
+    <classes>
+      <class name="TestNG.Assertinon">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="aftertest"/>
+          <include name="assert_function"/>
+          <include name="verifyHomepageTitle"/>
+          <include name="goBackToHomepage"/>
+          <include name="login"/>
+          <include name="forgot"/>
+        </methods>
+      </class> <!-- TestNG.Assertinon -->
+    </classes>
+  </test> <!-- batch1(failed) -->
+  <test thread-count="5" name="batch3(failed)">
+    <classes>
+      <class name="TestNG.Dependency">
+        <methods>
+          <include name="link"/>
+          <include name="goBackToHomepage"/>
+          <include name="verifyHomepageTitle"/>
+          <include name="launchBrowser"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- TestNG.Dependency -->
+    </classes>
+  </test> <!-- batch3(failed) -->
+</suite> <!-- Failed suite [TestNG] -->

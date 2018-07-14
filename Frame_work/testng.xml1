@@ -1,0 +1,29 @@
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="TestNG" verbose="1" >
+  <test name="batch1" >
+    <classes>
+       <class name="TestNG.BeforeAfter2" />
+        <class name="TestNG.Assertinon" />
+    </classes>
+  </test>
+  <test name="batch2" >
+    <classes>
+       <class name="TestNG.BeforeAfterMethod" />
+        <class name="TestNG.Dependency_priority" />
+    </classes>
+  </test>
+   <test name="batch3" >
+    <classes>
+       <class name="TestNG.Dependency" />
+        <class name="TestNG.Priority" />
+    </classes>
+  </test>
+  
+  
+ 
+  
+</suite>
+
