@@ -12,12 +12,12 @@ public class ConstantValue {
 	public static final String PROFILE_LINKPAGE ="//*[@id='pagelet_welcome_box']/ul/li[1]/div/a";
 
 	public static final String PROD_HOMEPAGE_URL ="http://facebook.com";
-	public static final String PROD_USERNAME ="mjmolla@gmail.com";
-	public static final String PROD_PASSWORD ="faruq8205";
+	public static final String PROD_USERNAME ="abc@gmail.com";
+	public static final String PROD_PASSWORD ="1234";
 
 	public static final String UAT_HOMEPAGE_URL="http://uat.facebook.com";
-	public static final String UAT_USERNAME="uat_mj@gmail.com";
-	public static final String UAT_LINKPAGE="uat_faruq8205";
+	public static final String UAT_USERNAME="uat_xy@gmail.com";
+	public static final String UAT_LINKPAGE="uat_1234";
 
 
 	public static final String ENV="PROD"; //PROD, UAT,SAT 
