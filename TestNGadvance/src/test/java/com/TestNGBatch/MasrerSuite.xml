@@ -1,0 +1,11 @@
+
+<suite name="MasterTestSuite">
+
+ <suite-files>
+ <suite-file path="C:\Users\Faruq\WorksSpace\TestNGadvance\src\test\java\com\TestNGBatch\Batch.xml"/>
+ <suite-file path="C:\Users\Faruq\WorksSpace\TestNGadvance\com.TestNGgrouping\RegularExpression.xml"/>
+ <suite-file path="C:\Users\Faruq\WorksSpace\TestNGadvance\src\test\java\com\TestNGBatch\WholePackage.xml"/>
+ <suite-file path="C:\Users\Faruq\WorksSpace\TestNGadvance\com.TestNGParallel\MoreTestThanThreadTesting.xml"/>
+ </suite-files>
+   
+</suite> <!-- Suite -->

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Batch1">
+    <classes>
+      <class name="com.TestNGBatch.SanityTest"/>
+      <class name="com.TestNGBatch.FunctionalTest"/>
+        </classes>
+       </test> 
+       
+       <test name="Batch2">
+        <classes>
+      <class name="com.TestNGBatch.RegressionTest"/>
+      <class name="com.TestNGBatch.SmokeTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

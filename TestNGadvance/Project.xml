@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.TestNGgrouping.GroupingTest"/>
+      <class name="com.TestNGBatch.SanityTest"/>
+      <class name="com.TestNGListenersResult.ResultWithCondition"/>
+      <class name="com.TestNGgrouping.RegularExpression"/>
+      <class name="com.TestNGParallel.ParallelThreadTesting"/>
+      <class name="com.TestNG.TestOne"/>
+      <class name="com.TestNGBatch.FunctionalTest"/>
+      <class name="com.TestNGBatch.RegressionTest"/>
+      <class name="com.TestNGParallel.ThreadPoolSize"/>
+      <class name="com.TestNGBatch.SmokeTest"/>
+      <class name="com.TestNGListenersResult.ResultWithScreenShot"/>
+      <class name="com.TestNGListenersResult.ITestResult"/>
+      <class name="com.TestNGParallel.MoreTestThanThreadTesting"/>
+      <class name="com.TestNGgrouping.MultipoleGroupTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

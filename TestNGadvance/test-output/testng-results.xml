@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="56" passed="55">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="140" started-at="2020-06-07T18:39:11 EDT" finished-at="2020-06-07T18:39:12 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="140" started-at="2020-06-07T18:39:11 EDT" finished-at="2020-06-07T18:39:12 EDT">
+      <class name="com.TestNGBatch.RegressionTest">
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.TestNGBatch.RegressionTest@27a8c74e]" name="test1" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.TestNGBatch.RegressionTest@27a8c74e]" name="test2" duration-ms="4" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:com.TestNGBatch.RegressionTest@27a8c74e]" name="test3" duration-ms="2" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:com.TestNGBatch.RegressionTest@27a8c74e]" name="test4" duration-ms="10" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:com.TestNGBatch.RegressionTest@27a8c74e]" name="test5" duration-ms="2" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:6, instance:com.TestNGBatch.RegressionTest@27a8c74e]" name="test6" duration-ms="2" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- com.TestNGBatch.RegressionTest -->
+      <class name="com.TestNGBatch.SanityTest">
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.TestNGBatch.SanityTest@2833cc44]" name="test1" duration-ms="1" started-at="2020-06-07T18:39:11 EDT" finished-at="2020-06-07T18:39:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.TestNGBatch.SanityTest@2833cc44]" name="test2" duration-ms="1" started-at="2020-06-07T18:39:11 EDT" finished-at="2020-06-07T18:39:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:com.TestNGBatch.SanityTest@2833cc44]" name="test3" duration-ms="1" started-at="2020-06-07T18:39:11 EDT" finished-at="2020-06-07T18:39:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:com.TestNGBatch.SanityTest@2833cc44]" name="test4" duration-ms="1" started-at="2020-06-07T18:39:11 EDT" finished-at="2020-06-07T18:39:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:com.TestNGBatch.SanityTest@2833cc44]" name="test5" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:6, instance:com.TestNGBatch.SanityTest@2833cc44]" name="test6" duration-ms="6" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- com.TestNGBatch.SanityTest -->
+      <class name="com.TestNGBatch.FunctionalTest">
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.TestNGBatch.FunctionalTest@33f88ab]" name="test1" duration-ms="2" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.TestNGBatch.FunctionalTest@33f88ab]" name="test2" duration-ms="3" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:com.TestNGBatch.FunctionalTest@33f88ab]" name="test3" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:com.TestNGBatch.FunctionalTest@33f88ab]" name="test4" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:com.TestNGBatch.FunctionalTest@33f88ab]" name="test5" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:6, instance:com.TestNGBatch.FunctionalTest@33f88ab]" name="test6" duration-ms="4" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- com.TestNGBatch.FunctionalTest -->
+      <class name="com.TestNGBatch.SmokeTest">
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.TestNGBatch.SmokeTest@2d8f65a4]" name="test1" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.TestNGBatch.SmokeTest@2d8f65a4]" name="test2" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:com.TestNGBatch.SmokeTest@2d8f65a4]" name="test3" duration-ms="3" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:com.TestNGBatch.SmokeTest@2d8f65a4]" name="test4" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:com.TestNGBatch.SmokeTest@2d8f65a4]" name="test5" duration-ms="10" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:6, instance:com.TestNGBatch.SmokeTest@2d8f65a4]" name="test6" duration-ms="1" started-at="2020-06-07T18:39:12 EDT" finished-at="2020-06-07T18:39:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- com.TestNGBatch.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="79210" started-at="2020-06-07T18:37:52 EDT" finished-at="2020-06-07T18:39:11 EDT">
+    <groups>
+      <group name="Status">
+        <method signature="MultipoleGroupTest.crises_controll()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_controll" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.crises_manage()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_manage" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.crises_responses()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_responses" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.friendlist()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="friendlist" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.group()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="group" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.login()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="login" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="RegularExpression.crises_controll()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_controll" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.crises_manage()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_manage" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.crises_responses()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_responses" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.friendlist()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="friendlist" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.group()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="group" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.login()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="login" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- Status -->
+      <group name="LogIn.functional">
+        <method signature="RegularExpression.friendlist()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="friendlist" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- LogIn.functional -->
+      <group name="functional">
+        <method signature="GroupingTest.forgetLinkTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="forgetLinkTest" class="com.TestNGgrouping.GroupingTest"/>
+        <method signature="MultipoleGroupTest.crises_controll()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_controll" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.friendlist()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="friendlist" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.group()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="group" class="com.TestNGgrouping.MultipoleGroupTest"/>
+      </group> <!-- functional -->
+      <group name="LogIn.smoke">
+        <method signature="RegularExpression.login()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="login" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- LogIn.smoke -->
+      <group name="LogIn.Regression">
+        <method signature="RegularExpression.crises_responses()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_responses" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- LogIn.Regression -->
+      <group name="Status.functional">
+        <method signature="RegularExpression.crises_controll()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_controll" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.group()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="group" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- Status.functional -->
+      <group name="smoke">
+        <method signature="GroupingTest.loginTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="loginTest" class="com.TestNGgrouping.GroupingTest"/>
+        <method signature="MultipoleGroupTest.crises_manage()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_manage" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.group()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="group" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.login()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="login" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="RegularExpression.group()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="group" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- smoke -->
+      <group name="Regression">
+        <method signature="GroupingTest.birthDayTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="birthDayTest" class="com.TestNGgrouping.GroupingTest"/>
+        <method signature="MultipoleGroupTest.crises_controll()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_controll" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.crises_responses()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_responses" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="RegularExpression.crises_controll()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_controll" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- Regression -->
+      <group name="Login">
+        <method signature="GroupingTest.birthDayTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="birthDayTest" class="com.TestNGgrouping.GroupingTest"/>
+        <method signature="GroupingTest.forgetLinkTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="forgetLinkTest" class="com.TestNGgrouping.GroupingTest"/>
+        <method signature="GroupingTest.loginTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="loginTest" class="com.TestNGgrouping.GroupingTest"/>
+        <method signature="MultipoleGroupTest.crises_controll()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_controll" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.crises_manage()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_manage" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.crises_responses()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_responses" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.friendlist()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="friendlist" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.group()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="group" class="com.TestNGgrouping.MultipoleGroupTest"/>
+        <method signature="MultipoleGroupTest.login()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="login" class="com.TestNGgrouping.MultipoleGroupTest"/>
+      </group> <!-- Login -->
+      <group name="Status.smoke">
+        <method signature="RegularExpression.crises_manage()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_manage" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- Status.smoke -->
+      <group name="Messanger">
+        <method signature="RegularExpression.crises_controll()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_controll" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.crises_manage()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_manage" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.crises_responses()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_responses" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.friendlist()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="friendlist" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.group()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="group" class="com.TestNGgrouping.RegularExpression"/>
+        <method signature="RegularExpression.login()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="login" class="com.TestNGgrouping.RegularExpression"/>
+      </group> <!-- Messanger -->
+    </groups>
+    <test name="Test" duration-ms="79210" started-at="2020-06-07T18:37:52 EDT" finished-at="2020-06-07T18:39:11 EDT">
+      <class name="com.TestNGParallel.ParallelThreadTesting">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ParallelThreadTesting@5e853265]" name="test1" duration-ms="19780" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.TestNGParallel.ParallelThreadTesting@5e853265]" name="test2" duration-ms="12915" started-at="2020-06-07T18:38:28 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.TestNGParallel.ParallelThreadTesting -->
+      <class name="com.TestNGgrouping.RegularExpression">
+        <test-method status="PASS" signature="crises_controll()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_controll" duration-ms="3" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crises_controll -->
+        <test-method status="PASS" signature="crises_manage()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_manage" duration-ms="3" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crises_manage -->
+        <test-method status="PASS" signature="crises_responses()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="crises_responses" duration-ms="2" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crises_responses -->
+        <test-method status="PASS" signature="friendlist()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="friendlist" duration-ms="3" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- friendlist -->
+        <test-method status="PASS" signature="group()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="group" duration-ms="2" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- group -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestNGgrouping.RegularExpression@2a17b7b6]" name="login" duration-ms="1" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.TestNGgrouping.RegularExpression -->
+      <class name="com.TestNGParallel.ThreadPoolSize">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test1" duration-ms="6" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test1" duration-ms="5" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test1" duration-ms="13" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test1" duration-ms="2" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test1" duration-ms="5" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test1" duration-ms="3" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="FAIL" signature="test3()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test3" duration-ms="19098" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:39:01 EDT">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:48322
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-INQUNRP', ip: '192.168.181.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:48322
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-INQUNRP', ip: '192.168.181.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:452)
+at com.TestNGParallel.ThreadPoolSize.test3(ThreadPoolSize.java:40)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:67)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:48322
+at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
+at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
+at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
+at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
+at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
+at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+at okhttp3.RealCall.execute(RealCall.java:77)
+at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:155)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+... 21 more
+Caused by: java.net.ConnectException: Connection refused: connect
+at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+at java.net.PlainSocketImpl.connect(Unknown Source)
+at java.net.SocksSocketImpl.connect(Unknown Source)
+at java.net.Socket.connect(Unknown Source)
+at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
+at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
+... 41 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test3" duration-ms="15214" started-at="2020-06-07T18:38:41 EDT" finished-at="2020-06-07T18:38:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.TestNGParallel.ThreadPoolSize@67205a84]" name="test3" duration-ms="14769" started-at="2020-06-07T18:38:57 EDT" finished-at="2020-06-07T18:39:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.TestNGParallel.ThreadPoolSize -->
+      <class name="com.TestNGgrouping.GroupingTest">
+        <test-method status="PASS" signature="birthDayTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="birthDayTest" duration-ms="16537" started-at="2020-06-07T18:37:52 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- birthDayTest -->
+        <test-method status="PASS" signature="forgetLinkTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="forgetLinkTest" duration-ms="22933" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetLinkTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.TestNGgrouping.GroupingTest@7d0587f1]" name="loginTest" duration-ms="16125" started-at="2020-06-07T18:38:32 EDT" finished-at="2020-06-07T18:38:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.TestNGgrouping.GroupingTest -->
+      <class name="com.TestNGParallel.MoreTestThanThreadTesting">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.TestNGParallel.MoreTestThanThreadTesting@6c49835d]" name="test1" duration-ms="14" started-at="2020-06-07T18:37:52 EDT" finished-at="2020-06-07T18:37:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.TestNGParallel.MoreTestThanThreadTesting@6c49835d]" name="test2" duration-ms="16268" started-at="2020-06-07T18:37:52 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.TestNGParallel.MoreTestThanThreadTesting@6c49835d]" name="test3" duration-ms="2" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.TestNGParallel.MoreTestThanThreadTesting@6c49835d]" name="test4" duration-ms="2" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.TestNGParallel.MoreTestThanThreadTesting@6c49835d]" name="test5" duration-ms="4" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:com.TestNGParallel.MoreTestThanThreadTesting@6c49835d]" name="test6" duration-ms="3" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- com.TestNGParallel.MoreTestThanThreadTesting -->
+      <class name="com.TestNGgrouping.MultipoleGroupTest">
+        <test-method status="PASS" signature="crises_controll()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_controll" duration-ms="1" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crises_controll -->
+        <test-method status="PASS" signature="crises_manage()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_manage" duration-ms="3" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crises_manage -->
+        <test-method status="PASS" signature="crises_responses()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="crises_responses" duration-ms="6" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crises_responses -->
+        <test-method status="PASS" signature="friendlist()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="friendlist" duration-ms="1" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- friendlist -->
+        <test-method status="PASS" signature="group()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="group" duration-ms="2" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- group -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestNGgrouping.MultipoleGroupTest@5d76b067]" name="login" duration-ms="1" started-at="2020-06-07T18:38:09 EDT" finished-at="2020-06-07T18:38:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.TestNGgrouping.MultipoleGroupTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>

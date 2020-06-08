@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.TestNGBatch.SanityTest"/>
+      <class name="com.TestNGBatch.FunctionalTest"/>
+      <class name="com.TestNGBatch.RegressionTest"/>
+      <class name="com.TestNGBatch.SmokeTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
