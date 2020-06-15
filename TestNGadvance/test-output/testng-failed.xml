@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]" parallel="classes">
-  <test thread-count="2" name="Test(failed)" parallel="classes">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestNGParallel.ThreadPoolSize">
+      <class name="com.TestNGListeners.LoginTest">
         <methods>
           <include name="test3"/>
+          <include name="test4"/>
         </methods>
-      </class> <!-- com.TestNGParallel.ThreadPoolSize -->
+      </class> <!-- com.TestNGListeners.LoginTest -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite (0)] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

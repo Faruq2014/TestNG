@@ -3,14 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestNGListenersResult.ResultWithScreenShot">
+      <class name="com.TestNGListeners.LoginTest">
         <methods>
-          <include name="sanity"/>
-          <include name="regressionalTest"/>
-          <include name="get"/>
-          <include name="e2eTest"/>
+          <include name="test3"/>
+          <include name="test4"/>
         </methods>
-      </class> <!-- com.TestNGListenersResult.ResultWithScreenShot -->
+      </class> <!-- com.TestNGListeners.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
